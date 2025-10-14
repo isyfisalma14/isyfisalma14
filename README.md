@@ -20,24 +20,26 @@
 ---
 
 ### 🚀 Current Projects  
-- 🧩 **KampusRide** — Student ride-sharing system (UX Research & Testing)  
+- 🧩 **URide Sharinf** — Student ride-sharing system (UX Research & Testing)  
 - 💡 **Kimi App** — JavaFX task management app for students  
 - 🧪 Automation Testing Practice — Selenium + Java  
 
 ---
 
+### 🧠 Languages
+Java · PHP · HTML · CSS · SQL
+
 ### 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isyfisalma14&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isyfisalma14&layout=compact&theme=radical)
 
 ---
 
 ### 📫 Connect With Me  
-🌐 [LinkedIn](https://linkedin.com) *(buat nanti kalau kamu udah punya)*  
+🌐 [LinkedIn](http://linkedin.com/in/isyfi-salma-pertiwi-911432255/) 
 📸 [Instagram](https://instagram.com/isyfisalmaa_p)  
 📊 [Kaggle](https://www.kaggle.com/isyfisalmapertiwi)  
 ✍️ [Kompasiana](https://www.kompasiana.com/isyfisalmapertiwi6422)
 
 ---
 
-> 💬 “Design with empathy, test with logic, and deliver with quality.”
+> 💬 Design with empathy, test with logic, and deliver with quality😍🫶🏻
