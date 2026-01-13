@@ -1,7 +1,7 @@
 # 👋 Hi, I’m **Isyfi Salma Pertiwi**
 
 ### 🎯 About Me  
-- 🎓 Final-year student of **Information Systems Accounting – Telkom University**  
+- 🎓 Final-year student of **Information Systems – Telkom University**  
 - 💼 Passionate in **Quality Assurance** and **UI/UX Design**  
 - 🧠 Currently learning **Automation Testing** and **Data-driven Design**  
 - 🌱 Love combining design, logic, and data to create impactful digital products
